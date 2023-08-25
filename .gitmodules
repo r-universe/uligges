@@ -1,5 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "BRugs"]
+	path = BRugs
+	url = https://github.com/cran/BRugs
+[submodule "R2WinBUGS"]
+	path = R2WinBUGS
+	url = https://github.com/cran/R2WinBUGS
+[submodule "fftw"]
+	path = fftw
+	url = https://github.com/cran/fftw
+[submodule "klaR"]
+	path = klaR
+	url = https://github.com/cran/klaR
+[submodule "nortest"]
+	path = nortest
+	url = https://github.com/cran/nortest
+[submodule "scatterplot3d"]
+	path = scatterplot3d
+	url = https://github.com/cran/scatterplot3d
+[submodule "signal"]
+	path = signal
+	url = https://github.com/cran/signal
+[submodule "tuneR"]
+	path = tuneR
+	url = https://github.com/cran/tuneR
