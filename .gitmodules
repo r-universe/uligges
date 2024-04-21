@@ -20,6 +20,3 @@
 [submodule "scatterplot3d"]
 	path = scatterplot3d
 	url = https://github.com/cran/scatterplot3d
-[submodule "tuneR"]
-	path = tuneR
-	url = https://github.com/cran/tuneR
