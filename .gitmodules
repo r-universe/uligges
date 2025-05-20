@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "BRugs"]
-	path = BRugs
-	url = https://github.com/cran/BRugs
 [submodule "R2WinBUGS"]
 	path = R2WinBUGS
 	url = https://github.com/cran/R2WinBUGS
